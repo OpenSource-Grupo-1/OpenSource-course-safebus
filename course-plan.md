@@ -26,42 +26,35 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los conceptos bási
 - **Conceptos clave**: `int edad = 15;`, `String nombre = "Ana";`, `double precio = 9.99;`
 - **Práctica**: [Clic para programar](https://replit.com/)
 
-### Lección 3: Operadores y estructuras de control (10 minutos)
-- **Descripción**: Aprende a tomar decisiones con `if-else` y repetir acciones con bucles `for` y `while`. Verás cómo el programa puede reaccionar a diferentes situaciones.
+### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
+- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE3)
-- **Conceptos clave**: `if (edad > 12) {}`, `for (int i = 0; i < 5; i++) {}`, `while (condicion) {}`
+- **Conceptos clave**: `if (age > 12) {}; for (int i=0; i<5; i++) {}`
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/)
 
-### Lección 4: Métodos y entrada/salida básica (10 minutos)
-- **Descripción**: Aprende a crear bloques de código reutilizables llamados métodos, y a recibir datos del usuario usando `Scanner`.
+### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
+- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE4)
-- **Conceptos clave**: `public static void saludar() {}`, `Scanner sc = new Scanner(System.in);`, `System.out.println();`
+- **Conceptos clave**: `public static void greet() {}; Use Scanner; class Pet { String name; }`
 - **Práctica**: [Clic para programar](https://onlinegdb.com/)
 
-### Lección 5: Introducción a la POO — Clases y Objetos (12 minutos)
+### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Descubre qué es la Programación Orientada a Objetos. Crea tu primera clase con atributos y métodos, e instancia objetos en Java.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE5)
-- **Conceptos clave**: `class Estudiante { String nombre; int edad; }`, `Estudiante e = new Estudiante();`, constructores.
+- **Conceptos clave**: `Encapsulación con getters; Construye un simulador de "mascotas".`
 - **Práctica**: [Clic para programar](https://replit.com/)
 
-### Lección 6: Encapsulamiento y Arrays (10 minutos)
-- **Descripción**: Aprende a proteger los datos de tus clases con getters y setters, y a trabajar con colecciones simples de datos usando arrays.
+### Lección 6: Consejos y próximos pasos (10 minutos)
+- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE6)
-- **Conceptos clave**: `private String nombre;`, `public String getNombre() {}`, `int[] notas = new int[5];`
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/)
-
-### Lección 7: Proyecto final y buenas prácticas (10 minutos)
-- **Descripción**: Pon en práctica todo lo aprendido construyendo un pequeño sistema de registro de estudiantes con POO. Además, repasamos los errores más comunes y cómo evitarlos.
-- **Enlace**: [Ver lección](https://www.youtube.com/watch?v=ENLACE7)
-- **Conceptos clave**: Integrar clases, objetos, métodos y arrays. Depurar errores básicos. Explorar la documentación oficial de Java.
-- **Proyecto final**: [Crear tu sistema de estudiantes](https://replit.com/)
-- **Comparte tu trabajo**: [Envía tu creación](https://forms.gle/TU-FORMULARIO)
+- **Conceptos clave**: `Depurar errores, explorar la documentación de Oracle Java.`
+- **Práctica**: [Enviar creacion](https://forms.gle/your-form)
 
 ---
 
 ## Recursos Adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/OpenSource-Grupo-1/java-fundamentals-course-UrbanGuard)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/OpenSource-Grupo-1/OpenSource-course-safebus)
 
 ### Todas las actividades prácticas
 
@@ -69,11 +62,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los conceptos bási
 |---------|-----------|---------------------|
 | 1 | Hola Mundo en Java | [Replit](https://replit.com/) |
 | 2 | Variables y tipos de datos | [Replit](https://replit.com/) |
-| 3 | Operadores y estructuras de control | [JDoodle](https://jdoodle.com/execute-java-online/) |
-| 4 | Métodos y entrada/salida con Scanner | [OnlineGDB](https://onlinegdb.com/) |
-| 5 | Clases y objetos | [Replit](https://replit.com/) |
-| 6 | Encapsulamiento y Arrays | [JDoodle](https://jdoodle.com/execute-java-online/) |
-| 7 | Proyecto final — Registro de Estudiantes | [Replit](https://replit.com/) |
+| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/) |
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/) |
+| 5 | Programa OOP | [Replit](https://replit.com/) |
 
 ---
 
