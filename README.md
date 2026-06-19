@@ -19,7 +19,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a guardar información en Java usando variables.
   Conoce los tipos principales: `int`, `String`, `double` y `boolean`.
-- **Enlace**: [▶ Ver la lección](https://youtu.be/sC2N5pISIr)
+- **Enlace**: [▶ Ver la lección](https://youtu.be/sC2N5pISIr4)
 - **Conclusiones clave**:
   - Una variable es una cajita con nombre que guarda un dato.
   - `int` para números enteros, `String` para texto (entre comillas), `double` para decimales, `boolean` para verdadero/falso.
