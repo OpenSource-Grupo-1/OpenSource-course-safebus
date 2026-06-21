@@ -44,7 +44,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/Hol2k7DSTL0)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 ## Recursos adicionales
