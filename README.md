@@ -26,12 +26,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   - Se declara así: `int edad = 23;` o `String nombre = "Carlos Blancas";`
   - El `+` une texto con variables (concatenación).
 - **Práctica**: [🖥 Clic para programar en JDoodle](https://www.jdoodle.com/online-java-compiler) 
-- **Código fuente**: [Ver en GitHub](/)
+- **Código fuente**: [Ver en GitHub](https://github.com/OpenSource-Grupo-1/OpenSource-course-safebus/blob/main/starter-files/lesson-2-variables.java)
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://youtu.be/Ky2YsDwNJvQ)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/) 👈 **¡Inicio inmediato!**
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=cVMQyoy_Oqk)
@@ -41,7 +41,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://youtu.be/FixlZZkF5_8)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/Hol2k7DSTL0)
