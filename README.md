@@ -47,27 +47,39 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://youtu.be/Hol2k7DSTL0)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
-## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
-- **Todas las actividades prácticas**:
-| Número de lección | Actividad | Empezar a programar |
-|----------|----------|-------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
-- Compartir: #JavaBeginners
-**¡Gracias por completar el curso!**
+
 ---
-## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202610
-1ASI0729 Desarrollo de Aplicaciones Open Source
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de tu equipo]
-**Líder del equipo**: [Nombres y Apellidos]
-**Integrantes del equipo**: [Nombres y Apellidos]
-**Fecha de entrega**: [Fecha]
+
+## Recursos Adicionales
+
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/OpenSource-Grupo-1/OpenSource-course-safebus)
+
+### Todas las actividades prácticas
+
+| Lección | Actividad | Empezar a programar |
+|---------|-----------|---------------------|
+| 1 | Hola Mundo en Java | [Replit](https://replit.com/) |
+| 2 | Variables y tipos de datos | [Replit](https://replit.com/) |
+| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/) |
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/) |
+| 5 | Programa OOP | [Replit](https://replit.com/) |
+
+---
+
+## Elaboración
+
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202610  
+1ASI0729 Desarrollo de Aplicaciones Open Source  
+NRC 11959
+
+**Nombre del equipo**: UrbanGuard  
+**Líder del equipo**: Delgado Arriola, Leonardo Sebastian  
+**Integrantes del equipo**:
+- Alvarado Millan, Boris
+- Ibañez Torres, Ivonne Beatriz
+- Blancas Chavez, Carlos Franco
+- Espiritu Silvestre, Fernando Carlos
+
+**Fecha de entrega**: Semana 12
